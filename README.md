@@ -1,2 +1,1 @@
-# hosctech-home
-A welcome home page
+This page will discribe the products the hosctechug is capable of offering 
